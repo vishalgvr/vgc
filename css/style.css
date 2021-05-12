@@ -255,6 +255,7 @@ ul.cat li {
 ol.type li {
 	display: inline-block;
 	margin-left: 20px;
+	padding-top: 28px;
 }
 ol.type li a {
 	color: #767676;
